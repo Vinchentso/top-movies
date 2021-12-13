@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 // Styles
 import {Wrapper, Image} from './Actor.styles';
-
+//THIS IS FOR THE CHECK WHETHER IT WORKS PROPERLY
 const Actor = ({name, character, imageUrl}) =>(
 
     <Wrapper>
@@ -12,7 +12,7 @@ const Actor = ({name, character, imageUrl}) =>(
              
     </Wrapper>
 
-);
+)
 
 
 Actor.propTypes = {
