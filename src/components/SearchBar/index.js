@@ -1,5 +1,6 @@
 import React, {useState, useEffect, useRef} from 'react';
 import PropTypes from 'prop-types';
+//DALI SE CHETE TOVA
 
 //image
 import searchIcon from '../../images/search-icon.svg';
